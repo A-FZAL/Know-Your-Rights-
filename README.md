@@ -15,7 +15,6 @@ Target Audience:
 
 2. Overall Description
 o	Product Perspective: Legal Ease will be a provided with the help of digital assistant available as a:
-Mobile app (Android and iOS):
 Web-based portal:
 A well structured web portal is be build where we will get the all the provided informations . 
 Contents of Home page:
@@ -29,13 +28,17 @@ In the very first look, the home page will contain the first option to directly 
 Then there we will get into the section of queries where it is further divided into 2 parts:
 1.	General queries
 2.	Different laws divided according to their divisions
-Then the FAQs section where there will be a chatbot which will explain the generals terms
+
+Then the FAQs section where there will be a chatbot which will assist with the queries of the people
+
 While the home bar will allow the user to dive into the section of legal consultancy in which one have the option to have an live/face to face interaction with the attorney and different use cases such as book appointments,view appoitments,Cancel appointments
 There will also a section under Legal consultancy which will provide a personalized case management where we can :
 1.	Track case progress
 2.	Save important document
 3.	Reminders
-Different language support. 
+And a subdivision where case based explaination will be provided for better support.
+
+There will be dynamic adaptation for different language support. 
     
 o	User Interface:
 Intuitive, easy-to-use interface with soothing visuals.
